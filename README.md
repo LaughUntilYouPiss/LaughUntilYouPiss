@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @LaughUntilYouPiss
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning SOMETHING THAT I DONNOT WANT TO TELL YOU
-- 💞️ I’m looking to collaborate on *******
-- 📫 How to reach me THER IS NO WAY
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs 🤧
+- # Hi there! 👋
+
+I'm Manal, a tech enthusiast with a love for coding, AI, and all things abstract. When I'm not building the next big thing (or at least trying to), you'll find me sketching abstract art or hunting for the perfect slice of pizza. 
+
+## Fun Facts:
+- 🎨 I speak the language of code... and sometimes, I doodle in it too.
+- 🧠 Currently training an AI model to predict how many coffees I'll need today.
+- 🍕 Pizza is my debugging fuel.
+
+Welcome to my code corner of the internet!
 
 <!---
 LaughUntilYouPiss/LaughUntilYouPiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
