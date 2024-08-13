@@ -8,8 +8,3 @@ I'm Manal, a tech enthusiast with a love for coding, AI, and all things abstract
 - 🍕 Pizza is my debugging fuel.
 
 Welcome to my code corner of the internet!
-
-<!---
-LaughUntilYouPiss/LaughUntilYouPiss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
