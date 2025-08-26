@@ -6,6 +6,6 @@ I'm Manal, a tech enthusiast with a love for coding, AI, and all things abstract
 - 🎨 I speak the language of code... and sometimes, I doodle in it too.
 - 🧠 Currently training an AI model to predict how many coffees I'll need today.
 - 🍕 Pizza is my debugging fuel.
-- 🎸 Metalhead at heart — if the code doesn’t compile, I just blast some riffs until it does.
+- 🎸 Metalhead at heart! If the code doesn’t compile, I just blast some riffs until it does.
   
 Welcome to my code corner of the internet!
